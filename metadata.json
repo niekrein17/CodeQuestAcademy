@@ -1,0 +1,6 @@
+{
+  "name": "KodingArena: Belajar Pemrograman SMP & SMK",
+  "description": "Game edukasi interaktif untuk belajar dasar pemrograman murid jenjang SMP (logika visual/blok & algoritma robot) dan SMK (coding JavaScript/Python & problem solving industri).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
